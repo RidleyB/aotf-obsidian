@@ -1,0 +1,331 @@
+{
+  "main": {
+    "id": "a583db62ecf1d8a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd2b8fbb1ef9a07e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a649111eec1e61f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment/Flash Bomb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flash Bomb"
+            }
+          },
+          {
+            "id": "cefaf3c882ffc5fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancestries/Celestial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Celestial"
+            }
+          },
+          {
+            "id": "a70c7f7780047640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancestries/Dhampir (Vampire).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dhampir (Vampire)"
+            }
+          },
+          {
+            "id": "7004bacbf7566dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancestries/Human.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Human"
+            }
+          },
+          {
+            "id": "d33e4a7c68c368f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancestries/Tiefling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tiefling"
+            }
+          },
+          {
+            "id": "dd7ef93a5430f5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monsters/Archer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Archer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fa6e5f63507073b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab94c6f6e3402242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d8d48331f03f9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a043e5a3f23ccb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#outer-provinces",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8404396c168d122",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb6b3a01dafdcb6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae56c893ab3ff580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2498b9f447086d51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/Session 19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4be011a0b0ac626b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/Session 19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c38e2cf457a47d6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20d5455b4b97a888",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4c718ad2fa70ee06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Equipment/Flash Bomb.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bd3c25870b59e4bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Sessions/Session 19.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "5b8a4b8911f953db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82f382d55a45f3cc",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "1a649111eec1e61f",
+  "lastOpenFiles": [
+    "Locations/The Isles of Ash and Frost.md",
+    "Equipment/Flash Bomb.md",
+    "Equipment/Bomb.md",
+    "Monsters/Archer.md",
+    "Session Canvas.canvas",
+    "Sessions/Session 19.md",
+    "Monsters/Bandit Captain.md",
+    "Equipment",
+    "Ancestries/Dhampir (Vampire).md",
+    "Ancestries/Tiefling.md",
+    "Ancestries/Human.md",
+    "Lore/Black Blood.md",
+    "Monsters",
+    "Untitled.base",
+    "Ancestries/Ascendant.md",
+    "Locations/Mordt.md",
+    "Ancestries/Ancestries.md",
+    "Ancestries/Celestial.md",
+    "Places of Interest/Blacktide.md",
+    "Locations/The Silver Marches.md",
+    "Locations/Wildrun.md",
+    "Locations/Untamed Lands.md",
+    "Locations/The Dust.md",
+    "Locations/Sunder.md",
+    "Locations/Karthold.md",
+    "Locations/Palor.md",
+    "Locations/Inner Nimyria.md",
+    "Locations/Farshade.md",
+    "Locations/Inner Provinces.md",
+    "People/Zeraph.md",
+    "Untitled 1.canvas",
+    "Sessions",
+    "Celestials",
+    "backgrounds",
+    "New folder",
+    "Ancestries",
+    "Places of Interest",
+    "People"
+  ]
+}

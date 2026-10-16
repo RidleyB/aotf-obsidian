@@ -1,0 +1,7 @@
+Nimyr is a [[Celestial]] whose domain is a hellish realm of silvery, radiant, burning light. His appearance and power draw on devilish imagery: overwhelming brilliance, temptation, eternal service, and the promise of salvation through submission.
+
+Before Nimyr's arrival to mortals, [[Mordt]] was a world of darkness and dust. The planet was cold, difficult to inhabit, and largely barren. Nimyr offered a human king the power of his light, transforming the king and those who followed him into the first [[Ascendant|Nimyrians]].
+
+Nimyr's silver radiance transformed the land, allowing fertile regions and settlements to flourish around the light of the [[Dawnspire]]. His influence became the foundation of an empire that now dominates much of the main continent. Nimyr remains active in the world. He is not a defeated or sleeping deity waiting to be rediscovered. His dominion is an ongoing reality, and the Ascendants are the instruments through which it is maintained.
+
+It is said that Ascendants who die on the mortal plane of Mordt can be resurrected and brought back from [[Nimyr's Domain]], a plane of pure brilliance and towers of shining silver. The Dawnspire acts as a link between Mordt and Nimyr's Domain.

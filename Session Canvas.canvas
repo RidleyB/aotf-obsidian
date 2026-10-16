@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bde97ad843dd06cd","type":"text","text":"```statblock\ncreature: Bandit Captain\nname: Hadrik's Mercenary (Melee)\n```","x":-1565,"y":-1620,"width":460,"height":1040},
+		{"id":"21e79912c2c18c41","x":-2240,"y":-1840,"width":475,"height":1038,"type":"text","text":"```statblock\ncreature: Archer\nname: Hadrik's Mercenary (Ranged)\n```"},
+		{"id":"64ba8a6007c06cc2","type":"text","text":"Mercenary Attack","x":-1500,"y":-2280,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"e7a62e5c5eaa5fbb","fromNode":"21e79912c2c18c41","fromSide":"top","toNode":"64ba8a6007c06cc2","toSide":"bottom"},
+		{"id":"34462bef475f4b06","fromNode":"bde97ad843dd06cd","fromSide":"top","toNode":"64ba8a6007c06cc2","toSide":"bottom"}
+	]
+}
